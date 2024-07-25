@@ -17,6 +17,6 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
-  - r-randomForest
+  - r-randomforest
   - r-ellipse
   - r-caret
